@@ -23,6 +23,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
+    margin-bottom: 10px;
     width: 300px;
     height: 400px;
     border-style:groove;
@@ -39,6 +40,7 @@ img {
     width: 30vw;
     margin:auto;
     margin-bottom: 10px;;
+    padding-bottom: 15px;
 }
 .about-me {
     background-color:black;
@@ -59,7 +61,17 @@ img {
     border-style: double;
     border-width: 10px;
 }
-
 .blue{
     color:blue;
+}
+.red {
+    color:red;
+}
+.sub-text {
+    font-size: x-small;
+    margin-top: 0px;
+    color:grey;
+}
+.my-background ul {
+    margin-bottom: 0px;
 }
