@@ -1,6 +1,9 @@
 #easa {
     margin-top: 0;
 }
+body {
+    background: radial-gradient(red,white)
+}
 .header {
     width: 30vw;
     text-align: center;
@@ -27,28 +30,32 @@ img {
     border-width: 10px;
 }
 .current-projects {
-    background-color: white;
-    color: green;
+    background: linear-gradient(green,white);
+    color: black;
+    border-style: inset;
     text-align: center;
     font-family: 'Courier New';
     font-weight: 900;
-    margin-bottom:10px;
     width: 30vw;
     margin:auto;
+    margin-bottom: 10px;;
 }
 .about-me {
     background-color:black;
-    padding-bottom: 35px;
     color:white;
-    text-align: center;
     width: 48vw;
-    border-style: double;
+    float: left;
+    padding-bottom: 33px;
+    text-align: center;
+    border-style:double;
+    border-width: 10px;
 }
 .my-background {
     background-color:black;
     color:white;
+    width: 48vw;
+    float: right;
     text-align: center;
-    width:47vw;
     border-style: double;
-    float:right;
+    border-width: 10px;
 }
