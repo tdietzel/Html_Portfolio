@@ -30,7 +30,7 @@ img {
     border-width: 10px;
 }
 .current-projects {
-    background: linear-gradient(green,white);
+    background: linear-gradient(rgb(0, 255, 0),white);
     color: black;
     border-style: inset;
     text-align: center;
@@ -58,4 +58,8 @@ img {
     text-align: center;
     border-style: double;
     border-width: 10px;
+}
+
+.blue{
+    color:blue;
 }
