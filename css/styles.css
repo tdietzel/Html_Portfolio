@@ -2,14 +2,18 @@
     margin-top: 0;
 }
 .header {
-    width: 25vw;
+    width: 30vw;
     text-align: center;
     margin: auto;
     background-color:black;
+    display:block;
 }
 .header h1 {
     margin:0px;
     color:red;
+    border-style: groove;
+    border-color:silver;
+    border-width:7px;
 }
 img {
     display: block;
@@ -28,23 +32,23 @@ img {
     text-align: center;
     font-family: 'Courier New';
     font-weight: 900;
+    margin-bottom:10px;
+    width: 30vw;
+    margin:auto;
 }
 .about-me {
-background-color:black;
-padding-bottom: 35px;
-color:white;
-text-align: center;
-display: block;
-float: left;
-width: 48vw;
-border-style: double;
+    background-color:black;
+    padding-bottom: 35px;
+    color:white;
+    text-align: center;
+    width: 48vw;
+    border-style: double;
 }
 .my-background {
-background-color:black;
-color:white;
-text-align: center;
-display: block;
-float: right;
-width: 49.5vw;
-border-style: double;
+    background-color:black;
+    color:white;
+    text-align: center;
+    width:47vw;
+    border-style: double;
+    float:right;
 }
