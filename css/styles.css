@@ -1,6 +1,10 @@
 #easa {
     margin-top: 0;
 }
+#title {
+    font-family: Verdana;
+    color:rgb(0, 153, 254)
+}
 body {
     background: radial-gradient(red,white)
 }
@@ -95,4 +99,14 @@ img {
     font-size: x-small;
     color: black;
     font-family: cursive;
+}
+@media screen and (max-width: 768px) {
+    .about-me {
+        width:100vw;
+        float:right;
+    }
+    .my-background {
+        width: 100vw;
+        float:right;
+    }
 }
