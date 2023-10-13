@@ -47,7 +47,6 @@ img {
     color:white;
     width: 48vw;
     float: left;
-    padding-bottom: 26px;
     text-align: center;
     border-style:double;
     border-width: 10px;
@@ -60,6 +59,7 @@ img {
     text-align: center;
     border-style: double;
     border-width: 10px;
+    padding-bottom: 45px;
 }
 .blue{
     color:blue;
@@ -69,6 +69,7 @@ img {
 }
 .red {
     color:red;
+    padding-left: 20px;
 }
 .yellow {
     color:#D4AF37;
@@ -89,4 +90,9 @@ img {
 }
 .about-me ul {
     font-family: sans-serif;
+}
+.cp-describe {
+    font-size: x-small;
+    color: black;
+    font-family: cursive;
 }
