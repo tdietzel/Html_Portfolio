@@ -1,0 +1,32 @@
+#easa {
+    margin-top: 0;
+}
+.header {
+    width:25vw;
+    text-align: center;
+    margin:auto;
+    background-color: black;
+}
+.header h1 {
+    margin:0px;
+    color:red;
+}
+.body {
+    background-color: rgb(255, 139, 139);
+}
+#my-pic {
+    display:block;
+    margin-left: auto;
+    margin-right: 150px;
+    padding-top: 10px;
+    width: 50%;
+}
+.current-projects {
+    text-align: center;
+}
+.about-me {
+text-align: center;
+}
+.my-background {
+text-align: center;
+}
