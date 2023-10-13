@@ -84,3 +84,9 @@ img {
 #enroll-pg {
     font-family:monospace;
 }
+.about-me li {
+    font-family:fantasy;
+}
+.about-me ul {
+    font-family: sans-serif;
+}
