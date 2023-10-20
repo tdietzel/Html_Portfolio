@@ -15,9 +15,11 @@ _This webpage practices using HTML & CSS to create webpage. The webpage will lat
 
 ## Setup/Installation Requirements
 
-* _Clone this repository to your desktop using 'https://github.com/tdietzel22/portfolio'_
-* _Navigate to the top level of the directory_
-* _Open index.html in your browser_
+* _Fork your own copy of this repository from [GitHub](https://github.com/tdietzel22/portfolio)_
+* _Open Git BASH [Download Link](https://gitforwindows.org/)_
+* _Use ==git clone <projecturl>== to clone the project from the forked repo_
+* _Open the project in [VS Code](https://code.visualstudio.com/) (Git shortcut:enter ==code .== after navigating to the top level of the directory)_
+* _View site on [github-pages](https://tdietzel22.github.io/portfolio/)_
 
 ## Known Bugs
 
